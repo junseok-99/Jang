@@ -1,2 +1,2 @@
-# Jang
-Jang_GitHub
+# Pokemon_Game_To_C#
+C# Game
